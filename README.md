@@ -5,4 +5,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Data Science Bootcamp.
+This repository contains all of the notes taken by [Nguyen Tran](https://github.com/nguyentn2021) for the [Lighthouse Labs](https://data.compass.lighthouselabs.ca/days/today) Data Science Bootcamp.
